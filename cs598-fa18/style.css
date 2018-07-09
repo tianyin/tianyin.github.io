@@ -1,7 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-
 body {
-    font-family: "Open Sans", "sans-serif";
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: .15in;
     margin-left: .2in;
     margin-right: .2in;
@@ -9,7 +7,7 @@ body {
 }
 
 body.main {
-    font-family: "Open Sans", "sans-serif";
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: .15in;
     margin-left: .2in;
     margin-right: .2in;
