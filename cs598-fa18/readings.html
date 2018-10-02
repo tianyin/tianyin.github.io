@@ -705,7 +705,7 @@
             </tbody>
         </table>
 
-        <h2>Network Failures</h2>
+        <h2>Network Reliability</h2>
 
         <table>
             <tbody>
@@ -723,21 +723,32 @@
                                 In Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM '16), August, 2016.
                               <p></p>
                             </li>
-                            <li> P. Bailis and K. Kingsbury,
-                                <a class="paperlink" href="https://cacm.acm.org/magazines/2014/9/177925-the-network-is-reliable/abstract" target="_blank">The
-                                  Network Is Reliable</a>,
-                                  Communications of the ACM (CACM), Vol. 57 No. 9, Pages 48-55, September 2014.
+                            <li> Y-. W. E. Sung, X. Tie, S. H. Y. Wong, and H. Zeng,
+                             <a class="paperlink" href="https://research.fb.com/wp-content/uploads/2016/11/robotron_top-down_network_management_at_facebook_scale.pdf" target="_blank">
+                               Robotron: Top-down Network Management at Facebook Scale</a>,
+                               In Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM '16), August, 2016.
+                             <p></p>
+                             </li>
+                             <li> (Optional) Google's network infra mentioned in the "Evolve or Die" paper:
                                   <p></p>
-                            </li>
+                               <ul>
+                                   <li> A. Singh et al.,
+                                       <a class="paperlink" href="https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf" target="_blank">Jupiter Rising: A Decade of Clos Topologies and
+                                         Centralized Control in Google's Datacenter Network</a>,
+                                         In Proceedings of the 2015 ACM SIGCOMM Conference (SIGCOMM '15), August 2015.
+                                         <p></p>
+                                   </li>
+                                   <li> S. Jain et al.,
+                                     <a class="paperlink" href="https://cseweb.ucsd.edu/~vahdat/papers/b4-sigcomm13.pdf" target="_blank">
+                                       B4: Experience with a Globally-Deployed Software Defined WAN</a>,
+                                       In Proceedings of the 2013 ACM SIGCOMM Conference (SIGCOMM '13), August 2013.
+                                     <p></p>
+                                   </li>
+                               </ul>
+                             </li>
                             <li> (Optional) related studies on network failures:
                                  <p></p>
                               <ul>
-                                 <li> Y-. W. E. Sung, X. Tie, S. H. Y. Wong, and H. Zeng
-                                  <a class="paperlink" href="https://research.fb.com/wp-content/uploads/2016/11/robotron_top-down_network_management_at_facebook_scale.pdf" target="_blank">
-                                    Robotron: Top-down Network Management at Facebook Scale</a>,
-                                    In Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM '16), August, 2016.
-                                  <p></p>
-                                  </li>
                                   <li> J. Meza, T. Xu, K. Veeraraghavan, and Y. J. Song,
                                       <a class="paperlink" href="" target="_blank">A Large-Scale Study of Data Center Network Reliability</a>,
                                         In Proceedings of the 2018 Internet Measurement Conference (IMC '17), Oct. 31 - Nov. 2, 2017.
@@ -752,7 +763,7 @@
                                   <li> P. Gill, N. Jain, and N. Nagappan,
                                       <a class="paperlink" href="https://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p350.pdf" target="_blank">
                                         Understanding Network Failures in Data Centers: Measurement, Analysis, and Implications</a>,
-                                        In Proceedings of the 2011 ACM SIGCOMM Conference (SIGCOMM '11), August, 2011.
+                                        In Proceedings of the 2011 ACM SIGCOMM Conference (SIGCOMM '11), August 2011.
                                       <p></p>
                                   </li>
                               </ul>
@@ -822,7 +833,6 @@
             </tbody>
         </table>
 
-
         <h2>Project Symposium (Checkpoint 1)</h2>
 
         <table>
@@ -854,13 +864,40 @@
             </tbody>
         </table>
 
-        <h2>Failure Recovery</h2>
+        <h2>Network Partitions</h2>
 
         <table>
             <tbody>
                 <tr>
                     <td class="date"><a name="9tu">Tue<br>10/23</a></td>
+                    <td class="papers">
+                        <ul>
+                            <li> A. Alquraan, H. Takruri, M. Alfatafta, and S. Al-Kiswany,
+                                <a class="paperlink" href="https://www.usenix.org/conference/osdi18/presentation/alquraan" target="_blank">An Analysis of
+                                  Network-Partitioning Failures in Cloud Systems</a>,
+                                  In Proceedings of the 13th USENIX Symposium on
+                                  Operating Systems Design and
+                                  Implementation (OSDI '18), October 2018.
+                                <p></p>
+                            </li>
+                            <li> P. Bailis and K. Kingsbury,
+                                <a class="paperlink" href="https://cacm.acm.org/magazines/2014/9/177925-the-network-is-reliable/abstract" target="_blank">The
+                                  Network Is Reliable</a>,
+                                  Communications of the ACM (CACM), Vol. 57 No. 9, Pages 48-55, September 2014.
+                                  <p></p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
 
+        <h2>Failure Recovery</h2>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td class="date"><a name="9th">Thu<br>10/25</a></td>
                     <td class="papers">
                         <ul>
                           <li>
@@ -914,40 +951,6 @@
                                   <p></p>
                                 </li>
                               </ul>
-                            </li>
-                        </ul>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-
-        <h2>Finding Bugs</h2>
-
-        <table>
-            <tbody>
-                <tr>
-                    <td class="date"><a name="9th">Thu<br>10/25</a></td>
-                    <td class="papers">
-                        <ul>
-                            <li> H. Liu, X. Wang, G. Li, S. Lu, F. Ye, and C. Tian,
-                                <a class="paperlink" href="https://people.cs.uchicago.edu/~shanlu/paper/asplos18_fcatch.pdf" target="_blank">FCatch: Automatically Detecting
-                                  Time-of-fault Bugs in Cloud Systems</a>, In Proceedings of the
-                                  23rd ACM International Conference on Architectural Support
-                                  for Programming Languages and Operating Systems (ASPLOS '18), March 2018.
-                                <p></p>
-                            </li>
-                            <li> T. Leesatapornwongsa, M. Hao, P. Joshi,
-                              J. F. Lukman, and H. S. Gunawi,
-                                <a class="paperlink" href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-leesatapornwongsa.pdf" target="_blank">SAMC: Semantic-Aware Model Checking for Fast
-                                  Discovery of Deep Bugs in Cloud Systems</a>, In Proceedings of the
-                                  11th USENIX Symposium on
-                                  Operating Systems Design and Implementation (OSDI '14), October 2014.
-                                <p></p>
-                            </li>
-                            <li> C. Sadowski, E. Aftandilian, A. Eagle, L. Miller-Cushon, and C. Jaspan,
-                                <a class="paperlink" href="https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext" target="_blank">Lessons
-    from Building Static Analysis Tools at Google</a>, Communications of the ACM (CACM), Vol. 61 No. 4, Pages 58-66, April 2018.
-
                             </li>
                         </ul>
                     </td>
@@ -1303,6 +1306,40 @@
                                   <p></p>
                                 </li>
                               </ul>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>(Queuing) Finding Bugs</h2>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td class="date"><a name="9th">Thu<br>10/25</a></td>
+                    <td class="papers">
+                        <ul>
+                            <li> H. Liu, X. Wang, G. Li, S. Lu, F. Ye, and C. Tian,
+                                <a class="paperlink" href="https://people.cs.uchicago.edu/~shanlu/paper/asplos18_fcatch.pdf" target="_blank">FCatch: Automatically Detecting
+                                  Time-of-fault Bugs in Cloud Systems</a>, In Proceedings of the
+                                  23rd ACM International Conference on Architectural Support
+                                  for Programming Languages and Operating Systems (ASPLOS '18), March 2018.
+                                <p></p>
+                            </li>
+                            <li> T. Leesatapornwongsa, M. Hao, P. Joshi,
+                              J. F. Lukman, and H. S. Gunawi,
+                                <a class="paperlink" href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-leesatapornwongsa.pdf" target="_blank">SAMC: Semantic-Aware Model Checking for Fast
+                                  Discovery of Deep Bugs in Cloud Systems</a>, In Proceedings of the
+                                  11th USENIX Symposium on
+                                  Operating Systems Design and Implementation (OSDI '14), October 2014.
+                                <p></p>
+                            </li>
+                            <li> C. Sadowski, E. Aftandilian, A. Eagle, L. Miller-Cushon, and C. Jaspan,
+                                <a class="paperlink" href="https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext" target="_blank">Lessons
+    from Building Static Analysis Tools at Google</a>, Communications of the ACM (CACM), Vol. 61 No. 4, Pages 58-66, April 2018.
+
                             </li>
                         </ul>
                     </td>
