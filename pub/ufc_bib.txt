@@ -1,0 +1,8 @@
+@inproceedings{chen:fast:20,
+  author = {Jian Chen and Minghao Zhao and Zhenhua Li and Ennan Zhai and Feng Qian and Hongyi Chen and Yunhao Liu and Tianyin Xu},
+  title = "{Lock-Free Collaboration Support for Cloud Storage Services with Operation Inference and Transformation}",
+  booktitle = {Proceedings of the 18th USENIX Conference on File and Storage Technologies (FAST'20)},
+  location = {Santa Clara, CA, USA},
+  year = {2020},
+  month = {February},
+}

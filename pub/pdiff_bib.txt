@@ -1,0 +1,8 @@
+@inproceedings{xiang:ccs:19,
+  author = {Xiang, Chengcheng and Wu, Yudong and Shen, Bingyu and Shen, Mingyao and Huang, Haochen and Xu, Tianyin and Zhou, Yuanyuan and Moore, Cindy and Jin, Xinxin and Sheng, Tianwei},
+  title = "{Towards Continuous Access Control Validation and Forensics}",
+  booktitle = {Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (CCS'19)},
+  location = {London, United Kingdom},
+  year = {2019},
+  month = November,
+}
