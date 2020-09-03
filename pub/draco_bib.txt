@@ -1,0 +1,8 @@
+@inproceedings{skarlatos:micro:20,
+  author = {Skarlatos, Dimitrios and Chen, Qingrong and Chen, Jianyan and Xu, Tianyin and Torrellas, Josep},
+  title = "{Draco: Architectural and Operating System Support for System Call Security}",
+  booktitle = {Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53)},
+  location = {Athens, Greece},
+  year = {2020},
+  month = {October},
+}
