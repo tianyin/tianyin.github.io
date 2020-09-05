@@ -1,0 +1,8 @@
+@inproceedings{jha:sc:20,
+  author = {Saurabh Jha and Shengkun Cui and Subho Banerjee and Tianyin Xu and Jeremy Enos and Mike Showerman and Zbigniew T. Kalbarczyk and Ravishankar K. Iyer},
+  title = "{Live Forensics for HPC Systems: A Case Study on Distributed Storage Systems}",
+  booktitle = {Proceedings of the International Conference for High-Performance Computing, Networking, Storage and Analysis (SC'20)},
+  address="Atlanta, GA",
+  month = "November",
+  year = 2020,
+}
