@@ -148,28 +148,52 @@ As a systems researcher, my mission is to help improve the real-world software s
 		</blockquote>
 	
 		<p class="style2"><font face="Times New Roman">
-		<span class="type"><span style="font-style: normal;"><font size="4" color="#083b89">Big Data Stack</font></span></span></font></p>
+		<span class="type"><span style="font-style: normal;"><font size="4" color="#083b89">Hadoop, HBASE, ZooKeeper, Alluxio, etc</font></span></span></font></p>
 		<blockquote>
                         <div align="justify" class="STYLE4" style="font-size: 12pt; font-family: Times New Roman;">
                         <a href="https://issues.apache.org/jira/browse/HADOOP-11328" target="_blank">HADOOP-11328</a> - ZKFailoverController does not log Exception when doRun raises errors<br>
                         <a href="https://issues.apache.org/jira/browse/HADOOP-12659" target="_blank">HADOOP-12659</a> - Incorrect usage of config parameters in token manager of KMS<br>
                         <a href="https://issues.apache.org/jira/browse/HADOOP-12671" target="_blank">HADOOP-12671</a> - Inconsistent configuration values and incorrect comments<br>
-                        <a href="https://issues.apache.org/jira/browse/HADOOP-13201" target="_blank">HADOOP-13201</a> - Print the directory paths when ViewFs denies the rename operation on internal dirs<br>
-                        <a href="https://issues.apache.org/jira/browse/HDFS-7684" target="_blank">HDFS-7684</a> - The host:port settings of the daemons should be trimmed before use<br>
+			<a href="https://issues.apache.org/jira/browse/HADOOP-13201" target="_blank">HADOOP-13201</a> - Print the directory paths when ViewFs denies the rename operation on internal dirs<br>
+			<a href="https://issues.apache.org/jira/browse/HADOOP-16958" target="_blank">HADOOP-16958</a> - NullPointerException(NPE) when hadoop.security.authorization is enabled but the input PolicyProvider for ZKFCRpcServer is NULL<br>
+			<a href="https://issues.apache.org/jira/browse/HADOOP-16836" target="_blank">HADOOP-16836</a> - Bug in widely-used helper function caused valid configuration value to fail on multiple tests, causing build failure<br>
+			<a href="https://issues.apache.org/jira/browse/HADOOP-16962" target="_blank">HADOOP-16962</a> - Making `getBoolean` log warning message for unrecognized value<br>
+			<a href="https://issues.apache.org/jira/browse/HADOOP-16967" target="_blank">HADOOP-16967</a> - TestSequenceFile#testRecursiveSeqFileCreate fails in subsequent run<br>
+			<a href="https://issues.apache.org/jira/browse/HADOOP-16971" target="_blank">HADOOP-16971</a> - TestFileContextResolveAfs#testFileContextResolveAfs creates dangling link and fails for subsequent runs<br>
+			<a href="https://issues.apache.org/jira/browse/HADOOP-17011" target="_blank">HADOOP-17011</a> - Tolerate leading and trailing spaces in fs.defaultFS<br>	
+			<br>
+			<a href="https://issues.apache.org/jira/browse/HDFS-7684" target="_blank">HDFS-7684</a> - The host:port settings of the daemons should be trimmed before use<br>
                         <a href="https://issues.apache.org/jira/browse/HDFS-7727" target="_blank">HDFS-7727</a> - Check and verify the auto-fence settings to prevent failures of auto-failover<br>
                         <a href="https://issues.apache.org/jira/browse/HDFS-7726" target="_blank">HDFS-7726</a> - Parse and check the configuration settings of edit log to prevent runtime errors<br>
                         <a href="https://issues.apache.org/jira/browse/HDFS-9578" target="_blank">HDFS-9578</a> - Incorrect default value (typo) in hdfs-default.xml<br>
                         <a href="https://issues.apache.org/jira/browse/HDFS-10417" target="_blank">HDFS-10417</a> - Improve error message from checkBlockLocalPathAccess <br>
                         <a href="https://issues.apache.org/jira/browse/HDFS-10455" target="_blank">HDFS-10455</a> - Logging the username when deny the setOwner operation <br>
-                        <a href="https://issues.apache.org/jira/browse/YARN-2832" target="_blank">YARN-2832</a> - Wrong Check Logic of NodeHealthCheckerService Causes Latent Error<br>
+                        <a href="https://issues.apache.org/jira/browse/HDFS-15124" target="_blank">HDFS-15124</a> - Crashing bugs in NameNode when using a valid configuration for `dfs.namenode.audit.loggers` <br>
+                        <a href="https://issues.apache.org/jira/browse/HDFS-15128" target="_blank">HDFS-15128</a> - Unit test failing to clean testing data and crashed future Maven test run <br>
+                        <a href="https://issues.apache.org/jira/browse/HDFS-15193" target="_blank">HDFS-15193</a> - Improving the error message for missing `dfs.namenode.rpc-address.$NAMESERVICE` <br>
+                        <a href="https://issues.apache.org/jira/browse/HDFS-15250" target="_blank">HDFS-15250</a> - Setting `dfs.client.use.datanode.hostname` to true can crash the system because of unhandled UnresolvedAddressException <br>
+                        <br>
+			<a href="https://issues.apache.org/jira/browse/YARN-2832" target="_blank">YARN-2832</a> - Wrong Check Logic of NodeHealthCheckerService Causes Latent Error<br>
                         <a href="https://issues.apache.org/jira/browse/YARN-4500" target="_blank">YARN-4500</a> - Missing default config values in yarn-default.xml<br>
                         <a href="https://issues.apache.org/jira/browse/YARN-5793" target="_blank">YARN-5793</a> - Trim configuration values in DockerLinuxContainerRuntime<br>
+			<br>
                         <a href="https://issues.apache.org/jira/browse/HBASE-13167" target="_blank">HBASE-13167</a> - The check for balancerCutoffTime is buggy<br>
                         <a href="https://issues.apache.org/jira/browse/HBASE-15026" target="_blank">HBASE-15026</a> - The default value of "hbase.regions.slop" in docs is obsolete<br>
+			<a href="https://issues.apache.org/jira/browse/HBASE-23702" target="_blank">HBASE-23702</a> - `hbase.hstore.flusher.count` setting to 0 breaks HMaster<br>
+			<a href="https://issues.apache.org/jira/browse/HBASE-23962" target="_blank">HBASE-23962</a> - Wrong combination of hlog reader and writer could crash regionserver<br>
+			<a href="https://issues.apache.org/jira/browse/HBASE-24207" target="_blank">HBASE-24207</a> - Wrong input argument order in TestCompactorMemLeak#assertMajorCompactionOK<br>
+			<br>
                         <a href="https://issues.apache.org/jira/browse/ZOOKEEPER-2082" target="_blank">ZOOKEEPER-2082</a> - Mistype of electionAlgo can fill out your disk in minutes<br>
-                        <a href="https://tachyon.atlassian.net/browse/TACHYON-1401" target="_blank">TACHYON-1401</a> - Name Inconsistency of "tachyon.max.table.metadata.byte" between docs and tachyon-default.properties <br>
+			<a href="https://issues.apache.org/jira/browse/ZOOKEEPER-3721" target="_blank">ZOOKEEPER-3721</a> - Making the boolean configuration parameters consistent<br>
+                        <br>
+			<a href="https://tachyon.atlassian.net/browse/TACHYON-1401" target="_blank">TACHYON-1401</a> - Name Inconsistency of "tachyon.max.table.metadata.byte" between docs and tachyon-default.properties <br>
                         <a href="https://tachyon.atlassian.net/browse/TACHYON-1402" target="_blank">TACHYON-1402</a> - Parameter inconsistency between docs and default properties <br>
-                        <a href="https://issues.apache.org/jira/browse/ACCUMULO-4519" target="_blank">ACCUMULO-4519</a> - System permission bugs in Thrift Proxy<br>
+			<a href="https://alluxio.atlassian.net/browse/ALLUXIO-3402" target="_blank">ALLUXIO-3402</a> - Backward compatibility for enum-typed configuration for parameter alluxio.user.file.metadata.load.type <br>
+			<a href="https://github.com/Alluxio/alluxio/issues/10767" target="_blank">ALLUXIO-10767</a> - Setting `alluxio.master.mount.table.root.ufs` to relative path will crash the master <br>
+				
+                        <br>
+			<a href="https://issues.apache.org/jira/browse/ACCUMULO-4519" target="_blank">ACCUMULO-4519</a> - System permission bugs in Thrift Proxy<br>
+			
 
                         </div>
 		        <p></p>
