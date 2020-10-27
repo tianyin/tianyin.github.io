@@ -2,7 +2,7 @@
    author = {Hsuan-Chi Kuo and Jianyan Chen and Sibin Mohan and Tianyin Xu},
    title = "{Set the Configuration for the Heart of the OS: On the Practicality of Operating System Kernel Debloating}",
    booktitle = "Proceedings of the 2020 ACM SIGMETRICS Conference (SIGMETRICS'20)",
-   address = "Boston, MA, USA",
+   address = "Virtual Event",
    month = "June",
    year =  2020,
 }

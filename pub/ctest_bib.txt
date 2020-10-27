@@ -1,0 +1,8 @@
+@inproceedings{sun:osdi:20,
+  author = {Xudong Sun and Runxiang Cheng and Jianyan Chen and Elaine Ang and Owolabi Legunsen and Tianyin Xu},
+  title = "{Testing Configuration Changes in Context to Prevent Production Failures}",
+  booktitle = {Proceedings of the 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI'20)},
+  address="Virtual Event",
+  month = "November",
+  year = 2020,
+}

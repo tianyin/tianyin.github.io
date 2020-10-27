@@ -2,7 +2,7 @@
   author = {Skarlatos, Dimitrios and Kokolis, Apostolos and Xu, Tianyin and Torrellas, Josep},
   title = "{Elastic Cuckoo Page Tables: Rethinking Virtual Memory Translation for Parallelism}",
   booktitle = {Proceedings of the 25th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'20)},
-  location = {Lausanne, Switzerland},
+  location = {Virtual Event},
   year = {2020},
   month = {March},
 }
