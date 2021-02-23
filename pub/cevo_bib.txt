@@ -1,0 +1,8 @@
+@inproceedings{zhang:icse:21,
+  author = {Yuanliang Zhang and Haochen He and Owolabi Legunsen and Shanshan Li and Wei Dong and Tianyin Xu},
+  title = "{An Evolutionary Study of Configuration Design and Implementation in Cloud Systems}",
+  booktitle = "In Proceedings of the 43rd International Conference on Software Engineering (ICSE'21)",
+  address = "Virtual Event",
+  month = MAY,
+  year =  2021,
+}
