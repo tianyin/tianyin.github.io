@@ -3,6 +3,6 @@
   title = "{Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems}",
   booktitle = "In Proceedings of the 2020 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'20)",
   address = "Virtual Event",
-  month = "November",
+  month = Nov,
   year =  2020,
 }

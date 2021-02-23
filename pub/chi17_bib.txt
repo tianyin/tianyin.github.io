@@ -3,6 +3,6 @@
   title = "{How Do System Administrators Resolve Access-Denied Issues in the Real World?}",
   booktitle = "Proceedings of the 35th Annual CHI Conference on Human Factors in Computing Systems (CHI'17)",
   address = "Denver, CO",
-  month = "May",
+  month = May,
   year =  2017,
 }

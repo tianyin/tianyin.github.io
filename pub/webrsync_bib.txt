@@ -3,6 +3,6 @@
   title = "{Towards Web-based Delta Synchronization for Cloud Storage Services}",
   booktitle = "Proceedings of the 16th USENIX Conference on File and Storage Technologies (FAST'18)",
   address="Oakland, CA",
-  month = "February",
+  month = Feb,
   year = 2018,
 }

@@ -3,6 +3,6 @@
   title = "{Early Detection of Configuration Errors to Reduce Failure Damage}",
   booktitle = {Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI'16)},
   address="Savannah, GA",
-  month = "November",
+  month = Nov,
   year = 2016,
 }

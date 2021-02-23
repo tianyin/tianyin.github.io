@@ -3,6 +3,6 @@
    title = "{Set the Configuration for the Heart of the OS: On the Practicality of Operating System Kernel Debloating}",
    booktitle = "Proceedings of the 2020 ACM SIGMETRICS Conference (SIGMETRICS'20)",
    address = "Virtual Event",
-   month = "June",
+   month = Jun,
    year =  2020,
 }

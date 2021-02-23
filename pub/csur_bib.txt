@@ -4,6 +4,6 @@
    journal = "ACM Computing Surveys (CSUR)",
    volume = 47,
    number = 4,
-   month = "July",
+   month = Jul,
    year = 2015,
 }

@@ -3,6 +3,6 @@
   title = "{Testing Configuration Changes in Context to Prevent Production Failures}",
   booktitle = {Proceedings of the 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI'20)},
   address="Virtual Event",
-  month = "November",
+  month = Nov,
   year = 2020,
 }

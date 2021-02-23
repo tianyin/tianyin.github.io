@@ -3,6 +3,6 @@
    title = "{DefDroid: Towards a More Defensive Mobile OS Against Disruptive App Behavior}",
    booktitle = "Proceedings of the 14th International Conference on Mobile Systems, Applications, and Services (MobiSys'16)",
    address = "Singapore",
-   month = "June",
+   month = Jun,
    year =  2016,
 }

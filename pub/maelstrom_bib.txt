@@ -3,6 +3,6 @@
   title = "{Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently}",
   booktitle = {Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI'18)},
   address="Carlsbad, CA",
-  month = "October",
+  month = Oct,
   year = 2018,
 }

@@ -3,6 +3,6 @@
    title = "{Do Not Blame Users for Misconfigurations}",
    booktitle = {Proceedings of the 24th Symposium on Operating System Principles (SOSP'13)},
    address="Farmington, PA",
-   month = "November",
+   month = Nov,
    year = 2013,
 }

@@ -4,5 +4,5 @@
   booktitle = {Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53)},
   location = {Virtual Event},
   year = {2020},
-  month = {October},
+  month = Oct,
 }

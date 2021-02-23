@@ -4,5 +4,5 @@
   booktitle = {Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (CCS'19)},
   location = {London, United Kingdom},
   year = {2019},
-  month = November,
+  month = Nov,
 }

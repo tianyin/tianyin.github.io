@@ -3,6 +3,6 @@
    title = "{Exploring Cross-Application Cellular Traffic Optimization with Baidu TrafficGuard}",
    booktitle = "Proceedings of the 13th USENIX Symposium on Networked Systems Design and Implementation (NSDI'16)",
    address = "Santa Clara, CA",
-   month = "March",
+   month = Mar,
    year =  2016,
 }

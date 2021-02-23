@@ -4,5 +4,5 @@
   booktitle = {Proceedings of the 18th USENIX Conference on File and Storage Technologies (FAST'20)},
   location = {Santa Clara, CA, USA},
   year = {2020},
-  month = {February},
+  month = Feb,
 }

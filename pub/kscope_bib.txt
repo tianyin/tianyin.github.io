@@ -3,6 +3,6 @@
   title = "{Live Forensics for HPC Systems: A Case Study on Distributed Storage Systems}",
   booktitle = {Proceedings of the International Conference for High-Performance Computing, Networking, Storage and Analysis (SC'20)},
   address="Virtual Event",
-  month = "November",
+  month = Nov,
   year = 2020,
 }

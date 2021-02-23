@@ -4,5 +4,5 @@
   booktitle = {Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP'19)},
   location = {Huntsville, Ontario, Canada},
   year = {2019},
-  month = {October},
+  month = Oct,
 }

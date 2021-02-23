@@ -3,6 +3,6 @@
    title = "{Towards Network-level Efficiency for Cloud Storage Services}",
    booktitle = "Proceedings of the 14th ACM Internet Measurement Conference (IMC'14)",
    address = "Vancouver, Canada",
-   month = "November",
+   month = Nov,
    year =  2014,
 }

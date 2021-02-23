@@ -3,6 +3,6 @@
    title = "{Offline Downloading in China: A Comparative Study}",
    booktitle = "Proceedings of the 15th ACM Internet Measurement Conference (IMC'15)",
    address = "Tokyo, Japan",
-   month = "October",
+   month = Oct,
    year =  2015,
 }
