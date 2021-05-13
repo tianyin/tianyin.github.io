@@ -1,0 +1,8 @@
+@inproceedings{sun:hotos:21,
+  author = {Xudong Sun and Lalith Suresh and Aishwarya Ganesan and Ramnatthan Alagappan and Michael Gasch and Lilia Tang and Tianyin Xu},
+  title = "{Reasoning about modern datacenter infrastructures using partial histories}",
+  booktitle = "In Proceedings of the 18th Workshop on Hot Topics in Operating Systems (HotOS-XVIII)",
+  address = "Virtual Event",
+  month = MAY,
+  year =  2021,
+}
