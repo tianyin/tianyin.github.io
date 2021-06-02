@@ -1,0 +1,8 @@
+@inproceedings{cheng:issta:21,
+  author = {Runxiang Cheng and Lingming Zhang and Darko Marinov and Tianyin Xu},
+  title = "{Test-Case Prioritization for Configuration Testing}",
+  booktitle = {Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'21)},
+  address="Virtual Event",
+  month = Jul,
+  year = 2021,
+}
