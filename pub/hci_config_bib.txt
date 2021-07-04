@@ -1,0 +1,7 @@
+@article{xu:arxiv:16,
+  author = {Tianyin Xu and Vineet Pandey and Scott Klemmer},
+  title = "{An HCI View of Configuration Problems}",
+  journal = {arXiv:1601.01747},
+  month = Jan,
+  year = {2016},
+}
