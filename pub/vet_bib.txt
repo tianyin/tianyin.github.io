@@ -1,0 +1,8 @@
+@inproceedings{wang:fse:21,
+  author = {Wenyu Wang and Wei Yang and Tianyin Xu and Tao Xie},
+  title = "{Vet: Identifying and Avoiding UI Exploration Tarpits}",
+  booktitle = "In Proceedings of the 2021 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'21)",
+  address = "Virtual Event",
+  month = AUG,
+  year =  2021,
+}
