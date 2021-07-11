@@ -2,7 +2,6 @@
   author = {Chou, David and Xu, Tianyin and Veeraraghavan, Kaushik and Newell, Andrew and Margulis, Sonia and Xiao, Lin and Ruiz, Pol Mauri and Meza, Justin and Ha, Kiryong and Padmanabha, Shruti and Cole, Kevin and Perelman, Dmitri},
   title = "{Taiji: Managing Global User Traffic for Large-Scale Internet Services at the Edge}",
   booktitle = {Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP'19)},
-  location = {Huntsville, Ontario, Canada},
   year = {2019},
   month = Oct,
 }

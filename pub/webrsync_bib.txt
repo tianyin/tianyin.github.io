@@ -2,7 +2,6 @@
   author = {He Xiao and Zhenhua Li and Ennan Zhai and Tianyin Xu and Yang Li and Yunhao Liu and Quanlu Zhang and Yao Liu},
   title = "{Towards Web-based Delta Synchronization for Cloud Storage Services}",
   booktitle = "Proceedings of the 16th USENIX Conference on File and Storage Technologies (FAST'18)",
-  address="Oakland, CA",
   month = Feb,
   year = 2018,
 }

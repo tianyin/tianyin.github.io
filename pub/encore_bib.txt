@@ -2,7 +2,6 @@
   author = {Jiaqi Zhang and Lakshmi Renganarayana and Xiaolan Zhang and Niyu Ge and Vasanth Bala and Tianyin Xu and Yuanyuan Zhou},
   title = "{EnCore: Exploiting System Environment and Correlation Information for Misconfiguration Detection}",
   booktitle = {Proceedings of the 19th International Conference on Architecture Support for Programming Languages and Operating Systems (ASPLOS'14)},
-  address="Salt Lake City, UT",
   month = Mar,
   year = {2014},
 }

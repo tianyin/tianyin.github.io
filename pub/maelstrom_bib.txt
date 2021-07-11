@@ -2,7 +2,6 @@
   author = {Kaushik Veeraraghavan and Justin Meza and Scott Michelson and Sankaralingam Panneerselvam and Alex Gyori and David Chou and Sonia Margulis and Daniel Obenshain and Shruti Padmanabha and Ashish Shah and Yee Jiun Song and Tianyin Xu},
   title = "{Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently}",
   booktitle = {Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI'18)},
-  address="Carlsbad, CA",
   month = Oct,
   year = 2018,
 }

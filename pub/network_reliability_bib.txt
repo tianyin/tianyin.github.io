@@ -2,7 +2,6 @@
    author = {Justin Meza and Tianyin Xu and Kaushik Veeraraghavan and Yee Jiun Song},
    title = "{A Large-Scale Study of Data Center Network Reliability}",
    booktitle = "Proceedings of the 18th ACM Internet Measurement Conference (IMC'18)",
-   address = "Boston, MA",
    month = Oct,
    year =  2018,
 }
