@@ -1,8 +1,7 @@
 @inproceedings{yoo:hotos:21,
   author = {Andrew Yoo and Yuanli Wang and Ritesh Sinha and Shuai Mu and Tianyin Xu},
   title = "{Fail-slow fault tolerance needs programming support}",
-  booktitle = "In Proceedings of the 18th Workshop on Hot Topics in Operating Systems (HotOS-XVIII)",
-  address = "Virtual Event",
+  booktitle = "Proceedings of the 18th Workshop on Hot Topics in Operating Systems (HotOS-XVIII)",
   month = MAY,
   year =  2021,
 }

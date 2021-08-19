@@ -2,7 +2,6 @@
    author = {Peng Huang and Tianyin Xu and Xinxin Jin and Yuanyuan Zhou},
    title = "{DefDroid: Towards a More Defensive Mobile OS Against Disruptive App Behavior}",
    booktitle = "Proceedings of the 14th International Conference on Mobile Systems, Applications, and Services (MobiSys'16)",
-   address = "Singapore",
    month = Jun,
    year =  2016,
 }

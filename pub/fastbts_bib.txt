@@ -2,7 +2,6 @@
    author = {Xinlei Yang and Xianlong Wang and Zhenhua Li and Feng Qian and Liangyi Gong and Rui Miao and Yunhao Liu and Tianyin Xu},
    title = "{Fast and Light Bandwidth Testing for Internet Users}",
    booktitle = "Proceedings of the 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI'21)",
-   address = "Virtual Event",
    month = APR,
    year =  2021,
 }
