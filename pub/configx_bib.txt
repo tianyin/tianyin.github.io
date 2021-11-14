@@ -1,0 +1,7 @@
+@inproceedings{zhang:oopsla:21,
+  author = {Jialu Zhang and Ruzica Piskac and Ennan Zhai and Tianyin Xu},
+  title = "{Static Detection of Silent Misconfigurations with Deep Interaction Analysis}",
+  booktitle = "Proceedings of the 36th ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'21)",
+  month = OCT,
+  year =  2021,
+}
