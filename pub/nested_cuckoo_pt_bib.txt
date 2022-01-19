@@ -1,0 +1,7 @@
+@inproceedings{skarlatos:asplos:20,
+  author = {Stojkovic, Jovan and Skarlatos, Dimitrios and Kokolis, Apostolos and Xu, Tianyin and Torrellas, Josep},
+  title = "{Parallel Virtualized Memory Translation with Nested Elastic Cuckoo Page Tables}",
+  booktitle = {Proceedings of the 27th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'22)},
+  year = {2022},
+  month = FEB,
+}
