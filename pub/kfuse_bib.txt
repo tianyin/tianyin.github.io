@@ -1,0 +1,7 @@
+@inproceedings{kuo:eurosys:22,
+   author = {Hsuan-Chi Kuo and Kai-Hsun Chen and Yicheng Lu and Dan Williams and Sibin Mohan and Tianyin Xu},
+   title = "{Verified Programs Can Party: Optimizing Kernel Extensions via Post-Verification Merging}",
+   booktitle = "Proceedings of the 17th European Conference on Computer Systems (EuroSys'22)",
+   month = APR,
+   year =  2022,
+}
