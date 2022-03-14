@@ -1,0 +1,7 @@
+@inproceedings{inam:ndss:22,
+  author = {Muhammad Adil Inam and Wajih Ul Hassan and Ali Ahad and Adam Bates and Rashid Tahir and Tianyin Xu and Fareed Zaffar},
+  title = "{Forensic Analysis of Configuration-based Attacks}",
+  booktitle = {Proceedings of the 29th Network and Distributed System Security Symposium (NDSS'22)},
+  month = FEB,
+  year = 2022,
+}
