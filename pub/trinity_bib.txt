@@ -1,0 +1,7 @@
+@inproceedings{gao:osdi:22,
+  author = {Di Gao and Hao Lin and Zhenhua Li and Chengen Huang and Liangyi Gong and Feng Qian and Yunhao Liu and Tianyin Xu},
+  title = "{Trinity: High-Performance Mobile Emulation through Graphics Projection}",
+  booktitle = {Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI'22)},
+  month = JUL,
+  year = 2022,
+}

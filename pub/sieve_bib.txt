@@ -1,7 +1,7 @@
-@inproceedings{sun:hotos:21,
-  author = {Xudong Sun and Lalith Suresh and Aishwarya Ganesan and Ramnatthan Alagappan and Michael Gasch and Lilia Tang and Tianyin Xu},
-  title = "{Reasoning about modern datacenter infrastructures using partial histories}",
-  booktitle = "Proceedings of the 18th Workshop on Hot Topics in Operating Systems (HotOS-XVIII)",
-  month = MAY,
-  year =  2021,
+@inproceedings{sun:osdi:22,
+  author = {Xudong Sun and Wenqing Luo and Jiawei Tyler Gu and Aishwarya Ganesan and Ramnatthan Alagappan and Michael Gasch and Lalith Suresh and Tianyin Xu},
+  title = "{Automatic Reliability Testing for Cluster Management Controllers}",
+  booktitle = {Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI'22)},
+  month = JUL,
+  year = 2022,
 }
