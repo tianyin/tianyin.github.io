@@ -1,0 +1,7 @@
+@inproceedings{luo:atc:22,
+  author = {Xuhao Luo and Weihai Shen and Shuai Mu and Tianyin Xu},
+  title = "{DepFast: Orchestrating Code of Quorum Systems}",
+  booktitle = "Proceedings of the 2022 USENIX Annual Technical Conference (USENIX ATC'22)",
+  month = JUL,
+  year =  2022,
+}
