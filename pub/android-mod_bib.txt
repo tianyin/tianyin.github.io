@@ -1,0 +1,7 @@
+@inproceedings{li:mobicom:20,
+  author = {Mingliang Li and Hao Lin and Cai Liu and Zhenhua Li and Feng Qian and Yunhao Liu and Nian Sun and Tianyin Xu},,
+  title = "{Aging or Glitching? Why Does Android Stop Responding and What Can We Do About It?}",
+  booktitle = "Proceedings of the 26th Annual International Conference on Mobile Computing and Networking (MobiCom'19)",
+  month = SEP,
+  year =  2020,
+}
