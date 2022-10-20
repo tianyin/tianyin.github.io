@@ -1,0 +1,7 @@
+@inproceedings{yang:sigcomm:22,
+   author = {Xinlei Yang and Hao Lin and Zhenhua Li and Feng Qian and Xingyao Li and Zhiming He and Xudong Wu and Xianlong Wang and Yunhao Liu and Zhi Liao and Daqiang Hu and Tianyin Xu},
+   title = "{Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications}",
+   booktitle = "Proceedings of the 2022 Annual Conference of the ACM Special Interest Group on Data Communication (Sigcomm'22)",
+   month = AUG,
+   year =  2022,
+}
