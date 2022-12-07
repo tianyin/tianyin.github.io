@@ -1,0 +1,7 @@
+@inproceedings{stojkovic:hpca:23:2,
+  author = {Stojkovic, Jovan and Xu, Tianyin and Franke, Hubertus and Torrellas, Josep},
+  title = "{SpecFaaS: Accelerating Serverless Applications with Speculative Function Execution}",
+  booktitle = {Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)},
+  year = {2023},
+  month = FEB,
+}
