@@ -1,0 +1,7 @@
+@inproceedings{wang:icse:23,
+  author = {Shuai Wang and Xinyu Lian and Darko Marinov and Tianyin Xu},
+  title = "{Test Selection for Unified Regression Testing}",
+  booktitle = "Proceedings of the 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)",
+  month = MAY ,
+  year =  2023,
+}
