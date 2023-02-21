@@ -1,0 +1,7 @@
+@inproceedings{yang:www:23,
+  author = {Xinlei Yang and Wei Liu and Hao Lin and Zhenhua Li and Feng Qian and Xianlong Wang and Yunhao Liu and Tianyin Xu},
+  title = "{Visual-Aware Testing and Debugging for Web Performance Optimization}",
+  booktitle = "Proceedings of the 32rd ACM Web Conference (WWW'23)",
+  month = APR,
+  year =  2023,
+}
