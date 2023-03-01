@@ -1,0 +1,9 @@
+@article{jia:arxiv:2023,
+  author = {Jia, Jinghao and Zhu, YiFei and Williams, Dan and Arcangeli, Andrea and Canella, Claudio and Franke, Hubertus and Feldman-Fitzthum, Tobin and Skarlatos, Dimitrios and Gruss, Daniel and Xu, Tianyin},
+  title = "{Programmable System Call Security with eBPF}",
+  journal = {arXiv:2302.10366},
+  year = 2023,
+  month = FEB,
+  doi = {10.48550/ARXIV.2302.10366},
+  url = {https://arxiv.org/abs/2302.10366},
+}
