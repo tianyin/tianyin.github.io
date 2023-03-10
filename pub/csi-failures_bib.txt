@@ -1,0 +1,7 @@
+@inproceedings{tang:eurosys:23,
+   author = {Lilia Tang and Chaitanya Bhandari and Yongle Zhang and Anna Karanika and Shuyang Ji and Indranil Gupta and Tianyin Xu},
+   title = "{Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems}",
+   booktitle = "Proceedings of the 18th European Conference on Computer Systems (EuroSys'23)",
+   month = MAY,
+   year =  2023,
+}
