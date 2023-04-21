@@ -1,0 +1,7 @@
+@inproceedings{stojkovic:isca23,
+  author = {Stojkovic, Jovan and Xu, Tianyin and Franke, Hubertus and Torrellas, Josep},
+  title = "{MXFaaS: Resource Sharing in Serverless Environments for Parallelism and Efficiency}",
+  booktitle = {Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA'23)},
+  year = {2023},
+  month = JUN,
+}
