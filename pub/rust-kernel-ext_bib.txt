@@ -1,0 +1,7 @@
+@inproceedings{jia:hotos:23,
+  author = {Jinghao Jia and Raj Sahu and Adam Oswald and Dan Williams and Michael V. Le and Tianyin Xu},
+  title = "{Kernel extension verification is untenable}",
+  booktitle = "Proceedings of the 19th Workshop on Hot Topics in Operating Systems (HotOS-XIX)",
+  month = JUN,
+  year =  2023,
+}
