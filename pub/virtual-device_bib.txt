@@ -1,0 +1,7 @@
+@inproceedings{lin:mobicom:23,
+  author = {Hao Lin and Jiaxing Qiu and Hongyi Wang and Zhenhua Li and Liangyi Gong and Di Gao and Yunhao Liu and Feng Qian and Zhao Zhang and Ping Yang and Tianyin Xu},,
+  title = "{Virtual Device Farms for Mobile App Testing at Scale: A Pursuit for Fidelity, Efficiency, and Accessibility}",
+  booktitle = "Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (MobiCom'23)",
+  month = OCT,
+  year =  2023,
+}
