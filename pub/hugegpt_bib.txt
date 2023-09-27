@@ -1,0 +1,7 @@
+@inproceedings{jia:pact:23,
+  author = {Weiwei Jia and Jiyuan Zhang and Jianchen Shan and Yiming Du and Xiaoning Ding and Tianyin Xu},
+  title = "{HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation}",
+  booktitle = {Proceedings of the 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT'23)},
+  month = OCT,
+  year = 2023,
+}
