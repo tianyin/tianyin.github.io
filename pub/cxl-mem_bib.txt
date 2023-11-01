@@ -1,0 +1,7 @@
+@inproceedings{sun:micro:23,
+  author = {Yan Sun and Yifan Yuan and Zeduo Yu and Chihun Song and Reese Kuper and Jinghan Huang and Houxiang Ji and Siddharth Agarwal and Jiaqi Lou and Ipoom Jeong and Ren Wang and Jung Ho Ahn and Tianyin Xu and Nam Sung Kim},
+  title = "{Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices}",
+  booktitle = "Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture (MICRO-56)",
+  month = OCT,
+  year =  2023,
+}

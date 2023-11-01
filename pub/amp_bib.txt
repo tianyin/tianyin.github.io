@@ -1,0 +1,7 @@
+@inproceedings{cheng:socc:23,
+  author = {Runxiang Cheng and Chris Cai and Selman Yilmaz and Rahul Mitra and Malay Bag and Mrinmoy Ghosh and Tianyin Xu},
+  title = "{Towards GPU Memory Efficiency for Distributed Training at Scale}",
+  booktitle = {Proceedings of the 14th ACM Symposium on Cloud Computing (SoCC'23)},
+  month = OCT,
+  year = 2023,
+}
