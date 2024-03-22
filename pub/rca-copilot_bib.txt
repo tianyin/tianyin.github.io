@@ -1,0 +1,7 @@
+@inproceedings{chen:eurosys:24,
+   author = {Yinfang Chen and Huaibing Xie and Minghua Ma and Yu Kang and Xin Gao and Liu Shi and Yunjie Cao and Xuedong Gao and Hao Fan and Ming Wen and Jun Zeng and Supriyo Ghosh and Xuchao Zhang and Chaoyun Zhang and Qingwei Lin and Saravan Rajmohan and Dongmei Zhang and Tianyin Xu},
+   title = "{Automatic Root Cause Analysis via Large Language Models for Cloud Incidents}",
+   booktitle = "Proceedings of the 19th European Conference on Computer Systems (EuroSys'24)",
+   month = APR,
+   year =  2024,
+}
