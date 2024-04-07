@@ -1,0 +1,7 @@
+@inproceedings{zhang:dmt:24,
+  author = {Jiyuan Zhang and Weiwei Jia and Siyuan Chai and Peizhe Liu and Jongyul Kim and Tianyin Xu},
+  title = "{Direct Memory Translation for Virtualized Clouds}",
+  booktitle = {Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'24)},
+  month = APR,
+  year = 2024,
+}
