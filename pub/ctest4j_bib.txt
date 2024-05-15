@@ -1,0 +1,7 @@
+@inproceedings{wang:fsedemo:24,
+  author = {Shuai Wang and Xinyu Lian and Qingyu Li and Darko Marinov and Tianyin Xu},
+  title = "{Ctest4J: A Practical Configuration Testing Framework for Java}",
+  booktitle = "Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE'24), Demonstrations",
+  month = JULY,
+  year =  2024,
+}
