@@ -1,0 +1,7 @@
+@inproceedings{stojkovic:isca24,
+  author = {Stojkovic, Jovan and Iliakopoulou, Nikoleta and Xu, Tianyin and Franke, Hubertus and Torrellas, Josep},
+  title = "{EcoFaaS: Rethinking the Design of Serverless Environments for Energy Efficiency}",
+  booktitle = {Proceedings of the 51st Annual International Symposium on Computer Architecture (ISCA'24)},
+  year = {2024},
+  month = JUN,
+}
