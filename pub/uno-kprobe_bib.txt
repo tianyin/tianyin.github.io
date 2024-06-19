@@ -1,0 +1,7 @@
+@inproceedings{jia:atc:24,
+  author = {Jinghao Jia and Michael Le and Salman Ahmed and Dan Williams and Hani Jamjoom and Tianyin Xu},
+  title = "{Fast (Trapless) Kernel Probes Everywhere}",
+  booktitle = "Proceedings of the 2024 USENIX Annual Technical Conference (USENIX ATC'24)",
+  month = JUL,
+  year =  2024,
+}

@@ -1,0 +1,7 @@
+@inproceedings{sun:osdi:24,
+  author = {Xudong Sun and Wenjie Ma and Jiawei Tyler Gu and Zicheng Ma and Tej Chajed and Jon Howell and Andrea Lattuada and Oded Padon and Lalith Suresh and Adriana Szekeres and Tianyin Xu},
+  title = "{Anvil: Verifying Liveness of Cluster Management Controllers}",
+  booktitle = {Proceedings of the 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI'24)},
+  month = JUL,
+  year = 2024,
+}
