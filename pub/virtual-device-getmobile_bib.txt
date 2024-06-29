@@ -1,0 +1,10 @@
+@article{lin:getmobile:24,
+  author = {Hao Lin and Jiaxing Qiu and Hongyi Wang and Zhenhua Li and Liangyi Gong and Di Gao and Yunhao Liu and Feng Qian and Zhao Zhang and Ping Yang and Tianyin Xu},,
+  title = "{Virtual Device Farms for Mobile App Testing at Scale: A Pursuit for Fidelity, Efficiency, and Accessibility}",
+  journal = "Mobile Computing and Communications (GetMobile)",
+  month = MAR,
+  year =  2024,
+  volume = {28},
+  number = {1},
+  pages = {5–9},
+}

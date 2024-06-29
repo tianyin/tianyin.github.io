@@ -1,0 +1,7 @@
+@article{sun:login:24,
+  author = {Xudong Sun and Jiawei Tyler Gu and Cody Rivera and Tej Chajed and Jon Howell and Andrea Lattuada and Oded Padon and Lalith Suresh and Adriana Szekeres and Tianyin Xu},
+  title = "{Anvil: Building Kubernetes Controllers That Do Not Break}",
+  journal = {USENIX ;login:},
+  month = JUN,
+  year = 2024,
+}
