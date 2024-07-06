@@ -59,9 +59,9 @@
 
 * DolphinAttack: Inaudible Voice Commands. G. Zhang, C. Yan, X. Ji, T. Zhang, T. Zhang, W. Xu, ACM CCS 2017.
 
-### MLSys + Data (Tentative)
+### MLSys + Data
 
-* Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism, M. Shoeybi et al., arXiv:1909.08053v4, 2020.
+* Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM, D. Narayanan et al., SC, 2021.
 
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, T. Chen et al., OSDI, 2018.
 
