@@ -1,6 +1,6 @@
 # UIUC CS Systems and Networking Qual Reading List
 
-### This page exists during the transition of the Wiki system and the qual information was not available. Now you can find the information at https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=7052 and this page is no longer maintained.
+### This page exists during the transition of the Wiki system and the qual information was not available. Now you can find the official information at https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=7052 and this page is no longer maintained.
 
 
 ### Cyber-Physical Systems
