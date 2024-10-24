@@ -1,0 +1,7 @@
+@inproceedings{ouyang:eurosys:25,
+   author = {Lingzhi Ouyang and Xudong Sun and Ruize Tang and Yu Huang and Madhav Jivrajani and Xiaoxing Ma and Tianyin Xu},
+   title = "{Multi-Grained Specifications for Distributed System Model Checking and Verification}",
+   booktitle = "Proceedings of the 20th European Conference on Computer Systems (EuroSys'25)",
+   month = MAR,
+   year =  2025,
+}
