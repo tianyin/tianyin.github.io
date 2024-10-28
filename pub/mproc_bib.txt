@@ -1,0 +1,7 @@
+@inproceedings{lin:mobicom:23,
+  author = {Jianwei Zheng and Zhenhua Li and Feng Qian and Wei Liu and Hao Lin and Yunhao Liu and Tianyin Xu and Nan Zhang and Ju Wang and Cang Zhang},,
+  title = "{Rethinking Process Management for Interactive Mobile Systems}",
+  booktitle = "Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (MobiCom'24)",
+  month = NOV,
+  year =  2024,
+}
