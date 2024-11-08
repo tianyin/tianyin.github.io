@@ -1,0 +1,7 @@
+@inproceedings{qiu:sosp:24,
+  author = {Jiaxing Qiu and Zijie Zhou and Yang Li and Zhenhua Li and Feng Qian and Hao Lin and Di Gao and Haitao Su and Xin Miao and Yunhao Liu and Tianyin Xu},
+  title = "{vSoC: Efficient Virtual System-on-Chip on Heterogeneous Hardware}",
+  booktitle = {Proceedings of the 30th ACM Symposium on Operating Systems Principles (SOSP'24)},
+  month = NOV,
+  year = 2024,
+}
