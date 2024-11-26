@@ -1,5 +1,5 @@
 @inproceedings{mazhar:icse:25,
-  author = {Anna Mazhar and Saad Sher Alam and William Zheng and Yinfang Chen and Suman Nath and Tianyin Xu},
+  author = {Anna Mazhar and Saad Sher Alam and William X. Zheng and Yinfang Chen and Suman Nath and Tianyin Xu},
   title = "{Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software}",
   booktitle = "Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE'25)",
   month = APR,
