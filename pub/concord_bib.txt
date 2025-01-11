@@ -1,0 +1,7 @@
+@inproceedings{stojkovic:hpca:25,
+  author = {Jovan Stojkovic and Chloe Alverti and Alan Andrade and Nikoleta Iliakopoulou and Hubertus Franke and Tianyin Xu and Josep Torrellas},
+  title = "{Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments}",
+  booktitle = {Proceedings of the 31th IEEE International Symposium on High-Performance Computer Architecture (HPCA-31)},
+  year = {2025},
+  month = MAR,
+}
