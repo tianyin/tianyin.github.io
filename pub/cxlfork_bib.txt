@@ -3,5 +3,5 @@
   title = "{CXLfork: Fast Remote Fork over CXL Fabrics}",
   booktitle = {Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'25)},
   month = APR,
-  year = 2024,
+  year = 2025,
 }
