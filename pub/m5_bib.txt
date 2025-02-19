@@ -1,0 +1,7 @@
+@inproceedings{sun:m5:25,
+  author = {Yan Sun and Jongyul Kim and Zeduo Yu and Jiyuan Zhang and Siyuan Chai and Michael Jaemin Kim and Hwayong Nam and Jaehyun Park and Eojin Na and Yifan Yuan and Ren Wang and Jung Ho Ahn and Tianyin Xu and Nam Sung Kim},
+  title = "{M5: Mastering Page Migration and Memory Management for CXL-based Tiered Memory Systems}",
+  booktitle = {Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'25)},
+  month = APR,
+  year = 2025,
+}
