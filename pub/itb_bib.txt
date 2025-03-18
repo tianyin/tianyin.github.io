@@ -1,0 +1,9 @@
+@article{jha:itb:2025,
+  author = {Saurabh Jha and Rohan Arora and Yuji Watanabe and Takumi Yanagawa and Yinfang Chen and Jackson Clark and Bhavya Bhavya and Mudit Verma and Harshit Kumar and Hirokuni Kitahara and Noah Zheutlin and Saki Takano and Divya Pathak and Felix George and Xinbo Wu and Bekir O. Turkkan and Gerard Vanloo and Michael Nidd and Ting Dai and Oishik Chatterjee and Pranjal Gupta and Suranjana Samanta and Pooja Aggarwal and Rong Lee and Pavankumar Murali and Jae-wook Ahn and Debanjana Kar and Ameet Rahane and Carlos Fonseca and Amit Paradkar and Yu Deng and Pratibha Moogi and Prateeti Mohapatra and Naoki Abe and Chandrasekhar Narayanaswami and Tianyin Xu and Lav R. Varshney and Ruchi Mahindru and Anca Sailer and Laura Shwartz and Daby Sow and Nicholas C. M. Fuller and Ruchir Puri},
+  title = "{ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks}",
+  journal = {arXiv:2502.05352},
+  year = 2025,
+  month = FEB,
+  doi = {10.48550/arXiv.2502.05352},
+  url = {https://arxiv.org/abs/2502.05352},
+}
