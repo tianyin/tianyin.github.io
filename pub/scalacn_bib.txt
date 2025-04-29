@@ -1,0 +1,7 @@
+@inproceedings{liu:nsdi:25,
+  author = {Wei Liu and Kun Qian and Zhenhua Li and Feng Qian and Tianyin Xu and Yunhao Liu and Yu Guan and Shuhong Zhu and Xiongfei Xu and Lanlan Xi and Chao Qin and Ennan Zhai},
+  title = "{Mitigating Scalability Walls of RDMA-based Container Networks}",
+  booktitle = {Proceedings of the 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI'25)},
+  month = APR,
+  year = 2025,
+}
