@@ -1,0 +1,7 @@
+@inproceedings{li:nsdi:25,
+  author = {Yang Li and Jiaxing Qiu and Hongyi Wang and Zhenhua Li and Feng Qian and Jing Yang and Hao Lin and Yunhao Liu and Bo Xiao and Xiaokang Qin and Tianyin Xu},
+  title = "{Dissecting and Streamlining the Interactive Loop of Mobile Cloud Gaming}",
+  booktitle = {Proceedings of the 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI'25)},
+  month = APR,
+  year = 2025,
+}
