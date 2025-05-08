@@ -1,0 +1,7 @@
+@inproceedings{zhang:hotos:25,
+  author = {Jiyuan Zhang and Jongyul Kim and Chloe Alverti and Peizhe Liu and Weiwei Jia and Tianyin Xu},
+  title = "{Rethinking Tiered Storage: Talk to File Systems, Not Device Drivers}",
+  booktitle = "Proceedings of the 20th Workshop on Hot Topics in Operating Systems (HotOS-XX)",
+  month = MAY,
+  year =  2025,
+}
