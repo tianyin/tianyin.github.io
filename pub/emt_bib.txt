@@ -1,0 +1,7 @@
+@inproceedings{chai:osdi:25,
+  author = {Siyuan Chai and Jiyuan Zhang and Jongyul Kim and Alan Wang and Fan Chung and Jovan Stojkovic and Weiwei Jia and Dimitrios Skarlatos and Josep Torrellas and Tianyin Xu},
+  title = "{EMT: An OS Framework for New Memory Translation Architectures}",
+  booktitle = {Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI'25)},
+  month = JUL,
+  year = 2025,
+}
