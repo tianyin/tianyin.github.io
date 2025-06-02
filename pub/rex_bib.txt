@@ -1,0 +1,7 @@
+@inproceedings{jia:atc:25,
+  author = {Jinghao Jia and Ruowen Qin and Milo Craun and Egor Lukiyanov and Ayush Bansal and Minh Phan and Michael V. Le and Hubertus Franke and Hani Jamjoom and Tianyin Xu and Dan Williams},
+  title = "{Rex: Closing the language-verifier gap with safe and usable kernel extensions}",
+  booktitle = "Proceedings of the 2025 USENIX Annual Technical Conference (USENIX ATC'25)",
+  month = JUL,
+  year =  2025,
+}
