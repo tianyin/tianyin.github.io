@@ -1,0 +1,7 @@
+@inproceedings{iliakopoulou:micro:25,
+  author = {Nikoleta Iliakopoulou and Jovan Stojkovic and Chloe Alverti and Tianyin Xu and Hubertus Franke and Josep Torrellas},
+  title = "{Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments}",
+  booktitle = "Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO-58)",
+  month = OCT,
+  year =  2025,
+}
