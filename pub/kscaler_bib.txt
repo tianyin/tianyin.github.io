@@ -1,0 +1,7 @@
+@inproceedings{Sampat:apsys:25,
+  author = {Pratik Rajesh Sampat and Tianyin Xu and Saugata Ghose},
+  title = "{CPU Autoscaling With a Kernel of Truth}",
+  booktitle = "Proceedings of the 16th ACM SIGOPS Asia-Pacific Workshop on Systems (ApSys'25)",
+  month = OCT,
+  year =  2025,
+}
