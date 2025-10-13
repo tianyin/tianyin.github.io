@@ -1,0 +1,7 @@
+@inproceedings{chen:stratus:2025,
+  author = {Yinfang Chen and Jiaqi Pan and Jackson Clark and Yiming Su and Noah Zheutlin and Bhavya Bhavya and Rohan Arora and Yu Deng and Saurabh Jha and Tianyin Xu},
+  title = "{Stratus: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds}",
+  booktitle = {Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25)},
+  year = 2025,
+  month = DEC,
+}
