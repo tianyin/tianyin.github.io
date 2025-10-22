@@ -1,0 +1,7 @@
+@inproceedings{gu:nsdi:26,
+  author = {Jiawei Tyler Gu and Zhen Tang and Yiming Su and Bogdan A. Stoica and Xudong Sun and William X. Zheng and Yue Zhang and Akond Rahman and Chen Wang and Tianyin Xu},
+  title = "{Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management}",
+  booktitle = {Proceedings of the 23rd USENIX Symposium on Operating Systems Design and Implementation (NSDI'26)},
+  month = MAY,
+  year = 2026,
+}
