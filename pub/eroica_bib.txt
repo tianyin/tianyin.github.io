@@ -1,0 +1,7 @@
+@inproceedings{guan:nsdi:26,
+  author = {Yu Guan and Zhiyu Yin and Haoyu Chen and Sheng Cheng and Chaojie Yang and Kun Qian and Tianyin Xu and Pengcheng Zhang and Yang Zhang and Hanyu Zhao and Yong Li and Dennis Cai and Ennan Zhai},
+  title = "{Eroica: Online Performance Troubleshooting for Large-Scale Model Training}",
+  booktitle = {Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI'26)},
+  month = May,
+  year = 2026,
+}

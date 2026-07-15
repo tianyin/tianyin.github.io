@@ -1,0 +1,7 @@
+@article{clark:arxiv:2026,
+  author = {Jackson Clark and Yiming Su and Saad Mohammad Rafid Pial and Yifang Tian and Lily Gniedziejko and Hans-Arno Jacobsen and Yinfang Chen and Tianyin Xu},
+  title = "{SREGym: A Live Benchmark for AI SRE Agents with High-Fidelity Failure Scenarios}",
+  journal = {arXiv:2605.07161},
+  year = 2026,
+  month = MAY,
+}

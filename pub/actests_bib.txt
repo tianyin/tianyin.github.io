@@ -1,0 +1,7 @@
+@article{xiang:arxiv:2025,
+  author = {Chengcheng Xiang and Li Zhong and Eric Mugnier and Nathaniel Nguyen and Yuanyuan Zhou and Tianyin Xu},
+  title = "{Testing Access-Control Configuration Changes for Web Applications}",
+  journal = {arXiv:2505.12770},
+  year = 2025,
+  month = MAY,
+}

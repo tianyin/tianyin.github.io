@@ -1,0 +1,7 @@
+@inproceedings{zhang:ase:25,
+  author = {Wentao Zhang and Jinghao Jia and Erkai Yu and Darko Marinov and Tianyin Xu},
+  title = "{DebCovDiff: Differential Testing of Coverage Measurement Tools on Real-World Projects}",
+  booktitle = {Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)},
+  month = Nov,
+  year = 2025,
+}

@@ -1,0 +1,7 @@
+@inproceedings{cheng:iclr:26,
+  author = {Qian Cheng and Ruize Tang and Emilie Ma and Finn Hackett and Peiyang He and Yiming Su and Ivan Beschastnikh and Yu Huang and Xiaoxing Ma and Tianyin Xu},
+  title = "{SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems}",
+  booktitle = {Proceedings of the 14th International Conference on Learning Representations (ICLR'26)},
+  month = Apr,
+  year = 2026,
+}
