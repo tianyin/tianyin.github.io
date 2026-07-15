@@ -1,0 +1,7 @@
+@inproceedings{kim:osdi:26,
+  author = {Jongyul Kim and Jaehwan Lee and Inhoe Koo and Peizhe Liu and Jiyuan Zhang and Junho Ahn and Tianyin Xu and Youngjin Kwon},
+  title = "{Oxbow: A Coordinated Architecture for Multi-component File Systems}",
+  booktitle = {Proceedings of the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI'26)},
+  month = Jul,
+  year = 2026,
+}

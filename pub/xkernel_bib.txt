@@ -1,0 +1,7 @@
+@inproceedings{chen:osdi:26,
+  author = {Zhongjie Chen and Wentao Zhang and Yulong Tang and Ran Shu and Fengyuan Ren and Tianyin Xu and Jing Liu},
+  title = "{Xkernel: Principled Performance Tunability of Operating System Kernels}",
+  booktitle = {Proceedings of the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI'26)},
+  month = Jul,
+  year = 2026,
+}
