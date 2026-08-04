@@ -1,0 +1,7 @@
+@inproceedings{wang:ase:26,
+  author = {Shuai Wang and Hao Wang and Darko Marinov and Tianyin Xu and Yongle Zhang},
+  title = "{ConfFuzz: Parameter-Aware Greybox Fuzzing for Configurable Cloud Systems}",
+  booktitle = "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE'26)",
+  month = OCT,
+  year =  2026,
+}
