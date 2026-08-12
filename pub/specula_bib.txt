@@ -1,0 +1,7 @@
+@article{cheng:specula,
+  author = {Qian Cheng and Saad Mohammad Rafid Pial and Ruize Tang and Yiming Su and Emilie Ma and Finn Hackett and Ivan Beschastnikh and Yu Huang and Tianyin Xu},
+  title = "{Specula: Scaling formal specifications for autonomous model checking of system code}", 
+  journal = {arXiv:2607.25333},
+  year = 2026,
+  month = JUL,
+}

@@ -1,0 +1,7 @@
+@inproceedings{cai:sosp:26,
+  author = {Zhizhen Cathy Cai and Nikhil Date and Jiawei Tyler Gu and Cody Rivera and Tej Chajed and Oded Padon and Tianyin Xu and Xudong Sun},
+  title = "{Welder: Compositional Liveness Verification of Cluster Control Planes}",
+  booktitle = {Proceedings of the 32nd ACM Symposium on Operating Systems Principles (SOSP'26)},
+  month = SEP,
+  year = 2026,
+}
